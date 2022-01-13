@@ -1,0 +1,16 @@
+CS 447
+Lab 3
+
+A.1 
+Binary	Sign-magnitude	1's complement	2's complement
+01010101	      +85		10101010		10101011
+11011011	       -91		00100100		00100101
+10000000         -0		01111111		10000000
+11111111           -127		00000000		00000001
+
+B.1	0x1d1c1b1a
+B.2	0x10010001
+B.3	0x1a1b1c1d
+B.4	1a = 26
+B.5	1a = 29
+B.6	little endian because the value when altered is changed in the right-most bit 	in the registar values

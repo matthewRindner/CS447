@@ -1,0 +1,9 @@
+CS 447
+Lab 3
+
+B.1	0x1d1c1b1a
+B.2	0x10010001
+B.3	0x1a1b1c1d
+B.4	1a = 26
+B.5	1d = 29
+B.6	little endian because the value when altered is changed in the right-most bit 	in the registar values
